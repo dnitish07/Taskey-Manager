@@ -20,10 +20,23 @@ Taskey is a feature-rich task management application designed to help users assi
 ### Technology Highlights:
 - **State Management:** Utilizes **GetX** for efficient state and navigation management throughout the app.
 
-## Install & setup flutter through above documentation.
+## Installation
+Install & setup flutter on vscode.
 
 Fork & then clone this repository.
 
 Open the project folder in the IDE where flutter is setup.
 
 Connect a physical device or run the app via emulator.
+
+## Packages Used:
+firebase_core for Firebase initialization
+hooks_riverpod for state management
+cloud_firestore for storing tasks in the cloud
+firebase_auth for user authentication
+freezed_annotation for data class generation
+json_annotation for JSON serialization
+shared_preferences for storing local user data
+top_snackbar_flutter for displaying snackbars
+go_router for route management
+auto_route_generator for code generation of routesoud
