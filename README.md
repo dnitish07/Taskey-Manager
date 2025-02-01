@@ -20,10 +20,10 @@ Taskey is a feature-rich task management application designed to help users assi
 ### Technology Highlights:
 - **State Management:** Utilizes **GetX** for efficient state and navigation management throughout the app.
 
-## Getting Started
+## Install & setup flutter through above documentation.
 
-To explore or contribute to this project, here are a few helpful resources:
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Fork & then clone this repository.
 
-For more details on Flutter development, visit the [official Flutter documentation](https://docs.flutter.dev/), which offers tutorials, samples, and full API references.
+Open the project folder in the IDE where flutter is setup.
+
+Connect a physical device or run the app via emulator.
